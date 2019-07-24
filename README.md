@@ -3,7 +3,7 @@
 ...Hi<br>
 
 MODLIST:<br>
-<i>TerraFirmaCraft</i><br>
+<u>TerraFirmaCraft</u><br>
   ʟ Too Much Time<br>
   ʟ Scales<br>
   ʟ Udary Mod<br>
@@ -15,15 +15,14 @@ MODLIST:<br>
   ʟ Pewter<br>
   ʟ Pumpkins<br>
   ʟ Streams<br>
-<i>NEI</i><br>
+<u>NEI</u><br>
   ʟ TFC Plugin<br>
-<i>Smart Moving</i><br>
-<i>Item Physics Full</i><br>
-<i>Ships Mod</i><br>
-<i>What Am I Looking At (WAILA)</i><br>
-<i>Gravestones</i><br>
-<i>MineTweaker3</i><br>
+<u>Smart Moving</u><br>
+<u>Item Physics Full</u><br>
+<u>Ships Mod</u><br>
+<u>What Am I Looking At (WAILA)</u><br>
+<u>Gravestones</u><br>
+<u>MineTweaker3</u><br>
   ʟ TFC Tweaker<br>
-<i>Dynamic Lights</i><br>
-<i>Weather</i><br>
-
+<u>Dynamic Lights</u><br>
+<u>Weather</u><br>
