@@ -15,6 +15,7 @@ MODLIST:<br>
   ʟ Pewter<br>
   ʟ Pumpkins<br>
   ʟ Streams<br>
+  ʟ Cellars<br>
 **NEI**<br>
   ʟ TFC Plugin<br>
 **Smart Moving**<br>
@@ -26,3 +27,4 @@ MODLIST:<br>
   ʟ TFC Tweaker<br>
 **Dynamic Lights**<br>
 **Weather**<br>
+**Cosmetic Armour Reworked**<br>
