@@ -28,3 +28,5 @@ MODLIST:<br>
 **Dynamic Lights**<br>
 **Weather**<br>
 **Cosmetic Armour Reworked**<br>
+**Hardcore Darkness**<br>
+**Mouse Tweaks**<br>
